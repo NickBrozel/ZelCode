@@ -1,2 +1,2 @@
 # ZelCode
-All public projects created by Nick Brozel
+Maybe this isnt what I think it is? It wasnt entirely clear what a repository was. 
